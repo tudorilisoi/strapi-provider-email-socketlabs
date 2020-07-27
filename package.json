@@ -1,6 +1,6 @@
 {
   "name": "@tudorilisoi/strapi-provider-email-socketlabs",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "description": "Socketlabs.com provider for Strapi Email",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -13,7 +13,8 @@
   },
   "main": "./lib",
   "dependencies": {
-    "@socketlabs/email": "^1.0.3"
+    "@socketlabs/email": "^1.0.3",
+    "html-to-text": "^5.1.1"
   },
   "strapi": {
     "isProvider": true
