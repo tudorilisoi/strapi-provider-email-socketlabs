@@ -1,0 +1,40 @@
+{
+  "name": "@tudorilisoi/strapi-provider-email-socketlabs",
+  "version": "0.2.1",
+  "description": "Socketlabs.com provider for Strapi Email",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "email",
+    "strapi",
+    "nodemailer"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "nodemailer": "6.4.6"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": "Tudor Ilisoi <tudorilisoi@gmail.com> (https://github.com/tudorilisoi)",
+  "maintainers": [
+    "Tudor Ilisoi <tudorilisoi@gmail.com> (https://github.com/tudorilisoi)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tudorilisoi/strapi-provider-email-socketlabs"
+  },
+  "bugs": {
+    "url": "https://github.com/tudorilisoi/strapi-provider-email-socketlabs"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
