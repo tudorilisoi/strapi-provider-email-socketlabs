@@ -1,6 +1,6 @@
 {
   "name": "@tudorilisoi/strapi-provider-email-socketlabs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Socketlabs.com provider for Strapi Email",
   "homepage": "http://strapi.io",
   "keywords": [
